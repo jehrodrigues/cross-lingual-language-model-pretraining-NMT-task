@@ -1,0 +1,1 @@
+Download here the 'en' and 'pt' folders: https://drive.google.com/open?id=1MMMLWYpqq0d6HLQXzhYOJni-X5zno834

@@ -1,0 +1,15 @@
+# tools, data, and dumped models
+# /tools
+/data
+/dumped
+/fastBPE
+/mosesdecoder
+/apex
+/venv
+/tools/fastBPE
+/tools/mosesdecoder
+/tools/wikiextractor
+/tools/wmt16-scripts
+/model
+/.idea
+/data-en-pt/processed
